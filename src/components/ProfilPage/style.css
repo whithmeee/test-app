@@ -1,0 +1,13 @@
+.link__back {
+  display: block;
+  align-self: start;
+  padding: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  border-radius: 4px;
+  border: none;
+  background-color: blueviolet;
+  color: #fff;
+  max-width: 100px;
+  margin: 0 auto;
+}
